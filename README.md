@@ -5,6 +5,6 @@ npm install bootstrap //
 npm i notiflix
 
 
-Para iniciar el proyecto debes colocar en la terminal npm strat.
+Para iniciar el proyecto debes colocar en la terminal npm start.
 
 Saludos.

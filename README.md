@@ -4,4 +4,7 @@ npm i react-router-dom //
 npm install bootstrap //
 npm i notiflix
 
-saludos
+
+Para iniciar el proyecto debes colocar en la tarminal npm strat.
+
+Saludos.
